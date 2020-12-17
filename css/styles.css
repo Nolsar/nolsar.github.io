@@ -10165,10 +10165,10 @@ body {
     color: rgba(255, 255, 255, 0.75);
   }
   #mainNav .nav-link:active {
-    color: #fff;
+    color: #64a19d;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #64a19d;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #000000;
