@@ -200,6 +200,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+  filter: grayscale(100%);
 }
 
 svg {
