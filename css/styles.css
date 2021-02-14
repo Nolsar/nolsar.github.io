@@ -197,11 +197,13 @@ figure {
   margin: 0 0 1rem;
 }
 
+
 img {
   vertical-align: middle;
   border-style: none;
-  filter: grayscale(100%);
+  filter: grayscale(75%);
 }
+
 
 svg {
   overflow: hidden;
