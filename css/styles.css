@@ -10122,7 +10122,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #fff;
+  background-color: rgba(3, 3, 3, 0.658);
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10134,7 +10134,7 @@ body {
   outline: none;
 }
 #mainNav .navbar-brand {
-  color: #000000;
+  color: rgba(255, 255, 255, 0.76);
   font-weight: 700;
   padding: 0.9rem 0;
 }
@@ -10152,7 +10152,8 @@ body {
     padding-top: 0;
     padding-bottom: 0;
     border-bottom: none;
-    background-color: transparent;
+    /* background-color: transparent; */
+    background-color: rgba(0, 0, 0, 0.63);
     transition: background-color 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
@@ -10244,7 +10245,7 @@ body {
     padding-bottom: 7%;
   }
   .masthead h1 {
-    font-size: 6.5rem;
+    font-size: 80px;
     line-height: 6.5rem;
     letter-spacing: 0.8rem;
   }
